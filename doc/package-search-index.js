@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"mng.simvoly.exchangerateservice"},{"l":"mng.simvoly.exchangerateservice.bean"},{"l":"mng.simvoly.exchangerateservice.config"},{"l":"mng.simvoly.exchangerateservice.controller"},{"l":"mng.simvoly.exchangerateservice.dao"},{"l":"mng.simvoly.exchangerateservice.service"}];updateSearchResults();
